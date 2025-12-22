@@ -5,6 +5,7 @@ def avg():
 
     avarage = a+b+c/3
     print(avarage)
+    return avg
 
-avg()
+a = avg()
 print("Thnak you")
